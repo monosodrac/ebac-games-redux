@@ -26,10 +26,6 @@
   
 </details>
 
-<p align="center">
-    <img src="./src/assets/images/eplay-cover.png" alt="Cover image" width="400px">
-</p>
-
 ---
 
 <h2 id="about">📌 About</h2>

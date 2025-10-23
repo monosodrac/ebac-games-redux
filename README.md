@@ -38,7 +38,7 @@ The application simulates an online game shop where users can add products to a 
 
 <h2 id="architecture">⚙️ Project Architecture</h2>
 
-The project follows a **modular React + Redux architecture**, with a focus on scalability and maintainability:
+The project follows a **modular React + Redux architecture**:
 
 ```
 src/
@@ -74,7 +74,7 @@ The application is fully **state-managed with Redux Toolkit** and **RTK Query** 
 <h3 id="cloning">Cloning</h3>
 
 ```bash
-git clone https://github.com/monosodrac/eplay.git
+git clone https://github.com/monosodrac/ebac-games-redux.git
 ```
 
 <h3 id="api">Backend Setup (JSON Server)</h3>
@@ -97,7 +97,7 @@ This will make the data available at http://localhost:4000/produtos, which is us
 In another terminal tab, start the React app:
 
 ```
-cd eplay
+cd ebac-games-redux
 npm install
 npm start
 ```

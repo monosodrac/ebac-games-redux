@@ -4,7 +4,7 @@
 [PROJECT__URL]: https://eplay-monosodrac.vercel.app/
 [NODE_BADGE]: https://img.shields.io/badge/node.js-20.16.0-43853D?style=for-the-badge&logo=node.js
 
-<h1 align="center" style="font-weight: bold;">Eplay 💻</h1>
+<h1 align="center" style="font-weight: bold;">Ebac Games 💻</h1>
 
 ![react][REACT__BADGE]
 ![typescript][TYPESCRIPT__BADGE]
@@ -30,11 +30,9 @@
 
 <h2 id="about">📌 About</h2>
 
-**Eplay** is a web-based game store built with **React**, **TypeScript**, and **Redux Toolkit**, serving as the final project for the Front-End module of the **Full-Stack Python course** by [EBAC](https://ebaconline.com.br/full-stack-python).  
+**Ebac Games** is a web-based game store built with **React**, **TypeScript**, and **Redux Toolkit**.  
 
-The application simulates an online game shop where users can browse games, view product details, and add them to a shopping cart with dynamic total calculation.  
-
-[![project][PROJECT__BADGE]][PROJECT__URL]
+The application simulates an online game shop where users can add products to a shopping cart with dynamic total calculation.  
 
 ---
 
